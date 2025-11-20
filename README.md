@@ -1,6 +1,6 @@
 # Tableau de Bord Business E-commerce 🚀
 
-![Dashboard Power BI](Dashboard/rapport_powerbi.png)
+![Dashboard Power BI](rapport_powerbi.png)
 
 ## Présentation du projet
 
@@ -11,7 +11,7 @@ Il vise à remplacer le reporting classique sous Excel par des visualisations dy
 ---
 
 ## Architecture Technique
-![Dashboard Power BI - KPI E-commerce](Dashboard/architecture_technique.png)
+![Dashboard Power BI - KPI E-commerce](architecture_technique.png)
 
 - **Données sources** : Fichier "Online Retail" UCI 
 - **ETL** : Python + pandas + SQLAlchemy pour extraction/transform/load
