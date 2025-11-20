@@ -67,5 +67,3 @@ Développé par Yassine AGHARBI – 2024
 Dataset original : UCI Machine Learning Repository
 
 ---
-
-
